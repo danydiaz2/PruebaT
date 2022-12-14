@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Search App</string>
+
+    <string name="search_hint">Buscar en mercado libre</string>
+    <string name="product_list_title">Resultados</string>
+    <string name="product_info_title">Detalle del producto</string>
+
+    <string name="main_error_intent">Algo salió mal</string>
+    <string name="main_error_server">Error en la petición</string>
+    <string name="main_error_response">Error en la respuesta</string>
+
+    <string name="dialog_connection_title">No tienes conexion a internet</string>
+    <string name="dialog_connection_message">Intenta conectarte a internet.</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_error_title">Pasó algo inesperado</string>
+    <string name="dialog_error_try">Intenta de nuevo</string>
+</resources>
